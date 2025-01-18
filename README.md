@@ -8,14 +8,17 @@ I love creating applications that help people get things done quickly and effect
 
 ### Languages
 
-- JavaScript
+- TypeScript
 - Java
 - Python
 - C#
 
 ### Frameworks
 - Django
-- Spring Boot
+- Spring
+- NestJS
+- NextJS
+- Astro
 
 ### Data Bases
 
@@ -23,9 +26,3 @@ I love creating applications that help people get things done quickly and effect
 - Postgres
 - MySQL
 - MongoDB
-
-## 🌱 I'm currently learning
-
-- ReactJS
-- NodeJS
-
